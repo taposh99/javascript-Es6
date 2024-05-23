@@ -147,3 +147,26 @@
 // // let newnumber= [1,2,3,4,5,6,7]
 
 // console.log(... number);
+
+// var myobj = {
+//     x : 1,
+//     t : 2,
+// }
+// var myobj2 = {
+    
+//     y: 1,
+    
+//     z: 2,
+// }
+
+// console.log(
+//     { ...myobj, ...myobj2});
+
+// Template Literals
+
+
+// var a = "sani";
+// var b = "haque";
+
+// console.log(`My name is ${a} and my last name is ${b}`);
+
