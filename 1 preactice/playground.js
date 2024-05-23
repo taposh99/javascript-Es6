@@ -89,9 +89,61 @@
 
 // console.log(animals.slice());
 
-const cities = ["Tokyo","Cairo","Los Angeles","Paris","Seattle"];
+// const cities = ["Tokyo","Cairo","Los Angeles","Paris","Seattle"];
 
-const newCityArr = cities.slice(2);
+// const newCityArr = cities.slice(2);
 
-console.log("Original: ", cities)
+// console.log("Original: ", cities)
 // console.log("New: ", newCityArr)
+
+// let number = [1,2,3,4,5,6,7,8,9,10];
+
+// result =number.map((num) =>
+// {
+//  return num * 2;
+// }
+// );
+// console.log(result);
+
+//  for (i = 0; i<=5;i++){
+    
+//     console.log(i);
+//     if(i==5){
+//         return "right"
+//     }
+//     else{
+//         break
+//     }
+// }
+// console.log(i);
+
+// const myobj = {
+//     name :"java",
+//     email :"java@gmail.com",
+//     pass :"12343456",
+// }
+
+// for ( property in myobj) {
+//    console.log(property + " "+ "hello");
+// }
+// let language = "10";
+
+// let text = '5';
+// for (let x of language) {
+//   text =   text + x;
+  
+// }
+
+// console.log(text);
+// let z;
+// function test(z){
+//     return  z = 10 + 10 ;
+// }
+// console.log(test(z));
+
+// spread operator
+
+// let number = [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+// // let newnumber= [1,2,3,4,5,6,7]
+
+// console.log(... number);
