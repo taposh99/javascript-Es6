@@ -197,3 +197,22 @@
 // } else {
 //     console.log("he is child");
 // }
+
+// for (let x = 0; x <= 5; x++) {
+
+//     result = x += * ;
+//     console.log(`${result}`);
+// }
+// let x = "";
+// for (let x = 0; x <= 5; x++) {
+//     // Assign the current value of x to result
+
+//     console.log("*");
+// }
+
+for (let x = 1; x <= 5; x++) {
+    for (let y = 1; y <= x; y++) {
+        console.log("A");
+    }
+    console.log("<br/>");
+}
