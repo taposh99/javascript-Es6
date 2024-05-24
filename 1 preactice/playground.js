@@ -106,7 +106,7 @@
 // console.log(result);
 
 //  for (i = 0; i<=5;i++){
-    
+
 //     console.log(i);
 //     if(i==5){
 //         return "right"
@@ -131,7 +131,7 @@
 // let text = '5';
 // for (let x of language) {
 //   text =   text + x;
-  
+
 // }
 
 // console.log(text);
@@ -153,9 +153,9 @@
 //     t : 2,
 // }
 // var myobj2 = {
-    
+
 //     y: 1,
-    
+
 //     z: 2,
 // }
 
@@ -172,7 +172,28 @@
 
 // for (let x = 0; x <= 10; x++) {
 //     console.log(`${x}`);
-//   }
-  
+// }
 
- 
+
+// var a = 10;
+
+
+// if (a < 5) {
+//     console.log("it is roght");
+// } else if (a === 10) {
+//     console.log("it is 10");
+// } else {
+//     console.log("it is wrong");
+// }
+
+// Nested If Statement
+
+
+// var age = 16;
+
+
+// if ((age < 18) && (age > 12)) {
+//     console.log("he is tenneager");
+// } else {
+//     console.log("he is child");
+// }
